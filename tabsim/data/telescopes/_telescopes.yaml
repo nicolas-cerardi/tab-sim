@@ -62,6 +62,14 @@ ska-low-aa*:
   dish_d: 39.0
   itrf_path: SKA-Low-AAstar.itrf.txt
 
+ska-low-aa*:
+  name: SKA-Low-AA*-2000m
+  latitude: -26.82472208
+  longitude: 116.7644482
+  elevation: 365.0
+  dish_d: 39.0
+  itrf_path: SKA-Low-AAstar_2000m.itrf.txt
+
 ska-low-aa4:
   name: SKA-Low-AA4
   latitude: -26.82472208
